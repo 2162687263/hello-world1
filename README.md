@@ -1,2 +1,3 @@
 # hello-world1
-My first repository on GitHub
+I love Genshin!!!
+我爱原神！！！
